@@ -1,5 +1,9 @@
-System Project 3: shell.c
+Shell Project: shell.c
 Names: Hench Wu		(NetID: hhw14) 
+
+Compile: make all
+
+Execute shell: ./shell
 
 Program execution
 
