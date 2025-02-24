@@ -63,7 +63,7 @@ Run a suspended job in the background.
 Change current directory to the given (absolute or relative) path. If no path is given, use
 the value of environment variable HOME. Your shell should update the environment variable
 PWD with the (absolute) present working directory after running cd.
-2
+
 • exit
 Exit the shell. The shell should also exit if the user hits ctrl-d on an empty input line.
 When the shell exits, it should first send SIGHUP followed by SIGCONT to any stopped
@@ -98,7 +98,6 @@ We can run sleep again and suspend it with ctrl-z:
 > /bin/sleep 100
 ^Z
 >
-3
 Then jobs should show the suspended job:
 > jobs
 [1] 1234 Stopped /bin/sleep 100
