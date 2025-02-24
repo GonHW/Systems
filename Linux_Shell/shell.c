@@ -1,6 +1,6 @@
 /**
  * @file shell.c
- * @author Group: Hench Wu(hhw14), Jonathan Davies(jpd244), Yiming Huang(yh714)
+ * @author: Hench Wu(hhw14)
  * @brief 
  * @version 0.1
  * @date 2022-11-20
