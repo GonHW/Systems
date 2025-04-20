@@ -9,5 +9,5 @@ Hench Wu		(NetID: hhw14)
 Jonathan Davies	(NetID: jpd244) 
 Yiming Huang	(NetID: yh714)
 
-we complie the test file like this:
+we compile the test file like this:
 gcc -g -Wall -Werror -fsanitize=address mymalloc.c test.c -o test
